@@ -1,0 +1,12 @@
+{
+  "name": "sentry-sourcemap-debug-id-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:getsentry/sentry-sourcemap-debug-id-cli.git",
+  "author": "Luca Forstner <luca.forstner@sentry.io>",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^17.6.2",
+    "uuid": "^9.0.0"
+  }
+}
